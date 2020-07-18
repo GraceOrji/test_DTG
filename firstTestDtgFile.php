@@ -1,0 +1,1 @@
+<?php echo "This is first test_DTG file" ?>
