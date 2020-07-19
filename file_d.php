@@ -1,0 +1,1 @@
+<?php echo "This is a test_DTG file called file_d.php"?>
